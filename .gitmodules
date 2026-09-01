@@ -55,3 +55,6 @@
 [submodule "examples/default"]
 	path = examples/default
 	url = https://github.com/quanttide/quanttide-laboratory-of-customer-support.git
+[submodule "apps/qtcloud-support"]
+	path = apps/qtcloud-support
+	url = https://github.com/quanttide/qtcloud-support.git
