@@ -60,4 +60,4 @@
 	url = https://github.com/quanttide/qtcloud-support.git
 [submodule "apps/qtsupport"]
 	path = apps/qtsupport
-	url = git@github.com:quanttide/qtsupport.git
+	url = https://github.com/quanttide/qtsupport.git
