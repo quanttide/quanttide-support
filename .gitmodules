@@ -52,9 +52,9 @@
 [submodule "packages/quanttide-support-toolkit"]
 	path = packages/quanttide-support-toolkit
 	url = https://github.com/quanttide/quanttide-support-toolkit.git
-[submodule "examples/default"]
-	path = examples/default
-	url = https://github.com/quanttide/quanttide-laboratory-of-customer-support.git
+[submodule "examples/quanttide-support-lab"]
+	path = examples/quanttide-support-lab
+	url = https://github.com/quanttide/quanttide-support-lab.git
 [submodule "apps/qtcloud-support"]
 	path = apps/qtcloud-support
 	url = https://github.com/quanttide/qtcloud-support.git

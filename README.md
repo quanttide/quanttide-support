@@ -9,7 +9,7 @@
 | `apps/qtcloud-support` | [qtcloud-support](https://github.com/quanttide/qtcloud-support) | 量潮客户支持云 |
 | `apps/qtsupport` | [qtsupport](https://github.com/quanttide/qtsupport) | 量潮客户支持官网（support.quanttide.com） |
 | `packages/quanttide-support-toolkit` | [quanttide-support-toolkit](https://github.com/quanttide/quanttide-support-toolkit) | 客户支持工具箱 |
-| `examples/default` | [quanttide-laboratory-of-customer-support](https://github.com/quanttide/quanttide-laboratory-of-customer-support) | 客户支持实验室 |
+| `examples/quanttide-support-lab` | [quanttide-support-lab](https://github.com/quanttide/quanttide-support-lab) | 客户支持实验室 |
 | `data/context` | [quanttide-context-of-customer-support](https://github.com/quanttide/quanttide-context-of-customer-support) | 客户支持语境 |
 | `data/intention` | [quanttide-intention-of-customer-support](https://github.com/quanttide/quanttide-intention-of-customer-support) | 客户支持意图 |
 | `data/roadmap` | [quanttide-roadmap-of-customer-support](https://github.com/quanttide/quanttide-roadmap-of-customer-support) | 客户支持路线图 |
